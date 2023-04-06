@@ -1,0 +1,8 @@
+# Build files
+/cmake-build-*/
+# Compiler symbols
+/main.dSYM
+# Binary files
+main
+# CLion files
+/.idea
